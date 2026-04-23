@@ -1,2 +1,5 @@
 Mustela
 Lynx
+Homo
+Mus
+Panthera
